@@ -1,0 +1,207 @@
+#asli { direction: rtl;
+background-image:url(backgroundo2.gif);
+display: block;
+
+background-attachment:fixed;
+  margin: auto;
+ 
+}
+ body{
+   margin: auto;
+ }
+ul.topnav {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+    
+}
+ 
+ul.topnav li {float: left;}
+ 
+ul.topnav li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+ 
+ul.topnav li a:hover:not(.active) {background-color: #111;}
+ 
+ul.topnav li a.active {background-color: #4CAF50;}
+ 
+ul.topnav li.right {float: right;}
+ 
+@media screen and (max-width: 600px){
+    ul.topnav li.right, 
+    ul.topnav li {float: none;}
+}
+#roket{
+  display:block;
+        
+        margin-top: 5%;
+        margin: auto;
+        
+}
+#kar{
+  text-align: center;
+  margin-top: 20%;
+  color: #fff;
+  font-size: 40px;
+ 
+}
+#forosh{
+  background-color: #fff;
+  text-align: center;
+}
+#axs{
+  display: block;
+  margin: auto;
+  width: 80%;
+  height: 80%;
+}
+#button{
+  
+  border-radius: 10px;
+  color: #525aff;
+  padding: 0;
+  margin: 0;
+  text-decoration: none;
+  margin-bottom: 5%;
+border: 0 solid;
+  box-shadow: inset 0 0 20px rgba(255, 255, 255, 0);
+  outline: 1px solid;
+  outline-color: rgba(255, 255, 255, 0.5);
+  outline-offset: 0px;
+  text-shadow: none;
+   cubic-bezier(0.19, 1, 0.22, 1);
+  transition: all 1250ms cubic-bezier(0.19, 1, 0.22, 1);
+}
+#footer{
+  background-color: #fff;
+  padding: 20px 20px;
+  border: 2 solid #000;
+  background-color: #c4c4c4;
+}
+#shop{
+  display: block;
+margin: auto;
+  margin-top: 10%;
+  width: 40%;
+  height: 40%;
+}
+#textshop{
+  text-align: center;
+}
+#game{
+  display: block;
+margin: auto;
+  
+  width: 40%;
+  height: 40%;
+}
+#textgame{
+text-align: center;
+}
+#news{
+display: block;
+margin: auto;
+  
+  width: 40%;
+  height: 40%;
+}
+#textnews{
+text-align: center;
+}
+#video{
+display: block;
+margin: auto;
+  
+  width: 40%;
+  height: 40%;
+}
+#textvideo{
+text-align: center;
+}
+#sport{
+display: block;
+margin: auto;
+  
+  width: 40%;
+  height: 40%;
+}
+#textsport{
+text-align: center;
+}
+#vip{
+display: block;
+margin: auto;
+  
+  width: 40%;
+  height: 40%;
+}
+#textvip{
+text-align: center;
+}
+#solo{
+display: block;
+margin: auto;
+  
+  width: 40%;
+  height: 40%;
+}
+#textsolo{
+text-align: center;
+}
+#email{
+  width: 4%;
+  height: 4%;
+}
+#number{
+width: 4%;
+  height: 4%;
+}
+#instagram{
+  width: 20%;
+  height: 20%;
+  display: block;
+  margin: auto;
+  margin-top: 10%;
+}
+#textinstagram{
+text-align: center;
+}
+#aemail{
+width: 20%;
+  height: 20%;
+  display: block;
+  margin: auto;
+}
+#textemail{
+text-align: center;
+}
+#anumber{
+width: 20%;
+  height: 20%;
+  display: block;
+  margin: auto;
+}
+#textnumber{
+text-align: center;
+}
+#coder{
+width: 20%;
+  height: 20%;
+  display: block;
+  margin: auto;
+}
+#textcoder{
+text-align: center;
+}
+ul {
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
